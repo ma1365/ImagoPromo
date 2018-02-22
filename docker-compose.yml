@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  imagopromo:
+    image: imagopromo
+    build:
+      context: .
+      dockerfile: ImagoPromo\Dockerfile
