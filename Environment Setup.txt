@@ -1,0 +1,9 @@
+Check npm version - npm -v
+Check node version - node --version
+Update npm - npm install -g npm-windows-upgrade
+Update node - npm install -g n
+Install Angular - npm install -g @angular/cli
+Check Angular version - ng --version
+Update Angular - npm install -g upgrade-angular
+Check DotNetCore version - dotnet --version
+Update Dotnet - Update Visual Studtio

@@ -5,7 +5,7 @@
     <DockerTargetOS>Windows</DockerTargetOS>
     <ProjectGuid>33e6f1ff-0ebd-46f3-b19e-c49021f3f73e</ProjectGuid>
     <DockerLaunchBrowser>True</DockerLaunchBrowser>
-    <DockerServiceUrl>http://{ServiceIPAddress}/api/values</DockerServiceUrl>
+    <DockerServiceUrl>http://{ServiceIPAddress}/api/fileAnalysis</DockerServiceUrl>
     <DockerServiceName>imagopromo</DockerServiceName>
   </PropertyGroup>
   <ItemGroup>
